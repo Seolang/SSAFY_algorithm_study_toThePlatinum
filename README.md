@@ -1,5 +1,5 @@
 ## 멤버 목록
-tlstmdck - 신승원
+~~tlstmdck - 신승원~~ 싸탈(취업)
 <br/>
 wogus0 - 박재현
 <br/>
